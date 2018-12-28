@@ -1,13 +1,14 @@
-# 0805: informatique théorique
+# 0603: compression et cryptographie
 
-Ce dépot contient l'ensemble des documents mis à votre disposition dans le cadre du cours d'informatique théorique du M1 informatique.
+Ce dépot contient l'ensemble des documents mis à votre disposition dans le cadre du cours de compression et de cryptographie de la licence d'informatique.
 
 
 
 **Rappel:**
+
 - pour créer une copie locale de ce dépot, taper dans un terminal 
 ```
-git clone https://github.com/URCA-info/0805.git
+git clone https://github.com/URCA-info/0603.git
 ```
 - pour mettre à jour les fichiers du dépot après une mise à jour, taper:
 ```
