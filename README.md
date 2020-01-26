@@ -1,4 +1,4 @@
-# 0603: compression et cryptographie
+# 0603: compression et cryptographie (retest)
 
 Ce dépot contient l'ensemble des documents mis à votre disposition dans le cadre du cours de compression et de cryptographie de la licence d'informatique de l'université de Reims.
 
